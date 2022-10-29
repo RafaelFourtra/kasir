@@ -1,0 +1,1 @@
+var cb = document.getElementById(id);
